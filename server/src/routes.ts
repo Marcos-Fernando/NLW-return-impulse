@@ -22,12 +22,11 @@ routes.post('/feedbacks', async (req, res) => {
       type,
       comment,
       screenshot,
-    })
+    });
 
     return res.status(201).send();
+
   } catch(err){
-    
     return res.status(500).send();
   }
-  
 });
