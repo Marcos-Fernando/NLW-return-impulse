@@ -3,7 +3,7 @@
 </p>
 
 ## 💻 Projeto
-Neste projeto criamos um Widget de Feedback para ser adicionado e utilizado em qualquer sites. Será um icone que ficará no canto direito inferior do site, no qual, o usuário poderá está realizando o feedback de problemas, ideias e outros assuntos referente ao site que está utilizando, através de texto e print da tela (opcional). A aplicação possui versão web e mobile.
+Neste projeto criamos um Widget de Feedback para ser adicionado e utilizado em qualquer site. Será um icone que ficará no canto direito inferior do site, no qual, o usuário poderá está realizando o feedback de problemas, ideias e outros assuntos referente ao site que está utilizando, através de texto e print da tela (opcional). A aplicação possui versão web e mobile.
 
 ## ✨ Tecnologias
 
@@ -41,14 +41,14 @@ Você pode visualizar o layout do projeto através [desse link](https://www.figm
 
 ## Executando o projeto
 
-Utilize o **yarn** ou o **npm install** para instalar as dependências do projeto.
+Utilize o **npm install** para instalar as dependências do projeto.
 Em seguida, inicie o projeto.
 
-## Mobile
+### Mobile
 ```cl
 expo start
 ```
-## Web
+### Web
 ```cl
 npm run dev
 ```
